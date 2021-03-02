@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UVT-LOCAL\\NET\\NETProject\\NETProject\\NETProject.csproj",
+      "projectUniqueName": "D:\\UVT-LOCAL\\NET\\Project\\NETProject\\NETProject.csproj",
       "projectName": "NETProject",
-      "projectPath": "D:\\UVT-LOCAL\\NET\\NETProject\\NETProject\\NETProject.csproj",
+      "projectPath": "D:\\UVT-LOCAL\\NET\\Project\\NETProject\\NETProject.csproj",
       "packagesPath": "C:\\Users\\mirce\\.nuget\\packages\\",
-      "outputPath": "D:\\UVT-LOCAL\\NET\\NETProject\\NETProject\\obj\\",
+      "outputPath": "D:\\UVT-LOCAL\\NET\\Project\\NETProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mirce\\AppData\\Roaming\\NuGet\\NuGet.Config",
