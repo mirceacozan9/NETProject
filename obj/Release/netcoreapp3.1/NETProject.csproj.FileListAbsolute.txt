@@ -1,0 +1,13 @@
+D:\UVT-LOCAL\NET\Project\NETProject\bin\Release\netcoreapp3.1\NETProject.exe
+D:\UVT-LOCAL\NET\Project\NETProject\bin\Release\netcoreapp3.1\NETProject.deps.json
+D:\UVT-LOCAL\NET\Project\NETProject\bin\Release\netcoreapp3.1\NETProject.runtimeconfig.json
+D:\UVT-LOCAL\NET\Project\NETProject\bin\Release\netcoreapp3.1\NETProject.runtimeconfig.dev.json
+D:\UVT-LOCAL\NET\Project\NETProject\bin\Release\netcoreapp3.1\NETProject.dll
+D:\UVT-LOCAL\NET\Project\NETProject\bin\Release\netcoreapp3.1\NETProject.pdb
+D:\UVT-LOCAL\NET\Project\NETProject\obj\Release\netcoreapp3.1\NETProject.csprojAssemblyReference.cache
+D:\UVT-LOCAL\NET\Project\NETProject\obj\Release\netcoreapp3.1\NETProject.AssemblyInfoInputs.cache
+D:\UVT-LOCAL\NET\Project\NETProject\obj\Release\netcoreapp3.1\NETProject.AssemblyInfo.cs
+D:\UVT-LOCAL\NET\Project\NETProject\obj\Release\netcoreapp3.1\NETProject.csproj.CoreCompileInputs.cache
+D:\UVT-LOCAL\NET\Project\NETProject\obj\Release\netcoreapp3.1\NETProject.dll
+D:\UVT-LOCAL\NET\Project\NETProject\obj\Release\netcoreapp3.1\NETProject.pdb
+D:\UVT-LOCAL\NET\Project\NETProject\obj\Release\netcoreapp3.1\NETProject.genruntimeconfig.cache

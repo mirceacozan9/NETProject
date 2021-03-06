@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mirce\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mirce\\.nuget\\packages"
+    ]
+  }
+}
